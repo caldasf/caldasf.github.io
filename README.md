@@ -1,5 +1,5 @@
 # QuizOn
 
-[<img align="left" alt="Rocketseat" src="quizon.png"/>](teste)<br/>
-
-O QuizOn foi descontinuado!
+![QuiZon](quizon.png)  
+O QuizOn foi descontinuado  
+Contato: [contato@quizon.com.br](mailto:contato@quizon.com.br)
